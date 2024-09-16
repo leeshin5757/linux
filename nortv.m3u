@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=104.28.205.70
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD | TH Vĩnh Long
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD | TH Vĩnh Long
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png"  catchup-type="default" catchup-days="2" catchup-source="tv360/54/xemlai/${start}-${offset}", THĐT1 HD | TH Đồng Tháp
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/137.png", THĐT2 | TH Đồng Tháp
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup-type="default" catchup-days="2" catchup-source="mytv/128/xemlai/${start}-${offset}", HTV7 HD
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup-type="default" catchup-days="2" catchup-source="mytv/190/xemlai/${start}-${offset}", HTV9 HD
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup-type="default" catchup-days="2" catchup-source="tv360/13/xemlai/${start}-${offset}", HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+http://27.67.50.134:18080/59.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup-type="default" catchup-days="2" catchup-source="vieon/htvc-phim/xemlai/${start}-${offset}", HTVC Phim HD
+https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" catchup-type="default" catchup-days="2" catchup-source="tv360/45/xemlai/${start}-${offset}", BTV HD | TH Bình Thuận
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="HanoiCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup-type="default" catchup-days="2" catchup-source="tv360/20/xemlai/${start}-${offset}", ANTV HD
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+
+
