@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=104.28.205.70
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD | TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD | TH Vĩnh Long
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD | TH Vĩnh Long
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
