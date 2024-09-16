@@ -12,10 +12,9 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup-type="default" catchup-days="2" catchup-source="mytv/190/xemlai/${start}-${offset}", HTV9 HD
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup-type="default" catchup-days="2" catchup-source="tv360/13/xemlai/${start}-${offset}", HTVC Thuần Việt HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-http://27.67.50.134:18080/59.m3u8
+http://thvip.site/360/13/index.m3u8?thuanviet
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup-type="default" catchup-days="2" catchup-source="vieon/htvc-phim/xemlai/${start}-${offset}", HTVC Phim HD
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+http://thvip.site/360/15/index.m3u8?phim
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" catchup-type="default" catchup-days="2" catchup-source="tv360/45/xemlai/${start}-${offset}", BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="HanoiCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup-type="default" catchup-days="2" catchup-source="tv360/20/xemlai/${start}-${offset}", ANTV HD
