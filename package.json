@@ -1,0 +1,10 @@
+{
+  "name": "goat-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@sparticuz/chromium": "^127.0.0",
+    "puppeteer-core": "^22.10.0"
+  }
+}
