@@ -1,9 +1,12 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
   "functions": {
     "api/grab.js": {
       "runtime": "nodejs20.x",
-      "maxDuration": 60,
-      "memory": 1024
+      "memory": 1024,
+      "maxDuration": 60
     }
   }
 }
+
