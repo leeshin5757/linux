@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/grab.js": {
+      "runtime": "nodejs20.x",
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  }
+}
